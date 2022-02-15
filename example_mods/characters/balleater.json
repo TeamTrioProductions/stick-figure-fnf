@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-42,
+				-351
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				31,
+				-330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-50,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-55,
+				-350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-60,
+				-313
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-40,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "balls",
+			"loop": false,
+			"name": "balls"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ballman",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "injaw",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		100,
+		220
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

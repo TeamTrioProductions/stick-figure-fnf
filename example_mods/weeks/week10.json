@@ -1,0 +1,57 @@
+{
+	"storyName": "bonus songs",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"origins",
+			"stickfigure",
+			[
+				120,
+				113,
+				113
+			]
+		],
+		[
+			"compact",
+			"dsf",
+			[
+				160,
+				160,
+				160
+			]
+		],
+		[
+			"burrito",
+			"uh",
+			[
+				246,
+				73,
+				53
+			]
+		],
+		[
+			"friends",
+			"uh",
+			[
+				246,
+				73,
+				53
+			]
+		]
+	],
+	"weekName": "week10"
+}

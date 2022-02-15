@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-840,
+		150
+	],
+	"scale": 1.3,
+	"animations": [
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "sad",
+			"idle_name": "done"
+		},
+		{
+			"loop_name": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "done",
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "face",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "done",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "worriedsf"
+}

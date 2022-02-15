@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="worriedsf.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="done0000" x="0" y="0" width="153" height="302"/>
+	<SubTexture name="face0000" x="153" y="0" width="153" height="307" frameX="0" frameY="0" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face0001" x="153" y="0" width="153" height="307" frameX="0" frameY="0" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face0002" x="306" y="0" width="153" height="311" frameX="-2" frameY="-10" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face0003" x="306" y="0" width="153" height="311" frameX="-2" frameY="-10" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face0004" x="459" y="0" width="153" height="302" frameX="-2" frameY="-6" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="mad0000" x="612" y="0" width="153" height="302" frameX="0" frameY="0" frameWidth="163" frameHeight="304"/>
+	<SubTexture name="mad0001" x="612" y="0" width="153" height="302" frameX="0" frameY="0" frameWidth="163" frameHeight="304"/>
+	<SubTexture name="mad0002" x="612" y="0" width="153" height="302" frameX="0" frameY="0" frameWidth="163" frameHeight="304"/>
+	<SubTexture name="mad0003" x="612" y="0" width="153" height="302" frameX="0" frameY="0" frameWidth="163" frameHeight="304"/>
+	<SubTexture name="mad0004" x="612" y="0" width="153" height="302" frameX="0" frameY="0" frameWidth="163" frameHeight="304"/>
+	<SubTexture name="mad0005" x="612" y="0" width="153" height="302" frameX="0" frameY="0" frameWidth="163" frameHeight="304"/>
+	<SubTexture name="mad0006" x="765" y="0" width="153" height="298" frameX="-10" frameY="-6" frameWidth="163" frameHeight="304"/>
+	<SubTexture name="sad0000" x="0" y="311" width="153" height="302" frameX="0" frameY="0" frameWidth="163" frameHeight="305"/>
+	<SubTexture name="sad0001" x="0" y="311" width="153" height="302" frameX="0" frameY="0" frameWidth="163" frameHeight="305"/>
+	<SubTexture name="sad0002" x="153" y="311" width="153" height="298" frameX="-8" frameY="-7" frameWidth="163" frameHeight="305"/>
+	<SubTexture name="sad0003" x="306" y="311" width="153" height="293" frameX="-10" frameY="-11" frameWidth="163" frameHeight="305"/>
+</TextureAtlas>

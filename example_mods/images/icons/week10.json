@@ -1,0 +1,57 @@
+{
+	"storyName": "bonussongs",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"origins",
+			"stickfigure",
+			[
+				120,
+				113,
+				113
+			]
+		],
+		[
+			"compact",
+			"dsf",
+			[
+				160,
+				160,
+				160
+			]
+		],
+		[
+			"burrito",
+			"uh",
+			[
+				186,
+				173,
+				213
+			]
+		],
+		[
+			"great-wall",
+			"donald",
+			[
+				246,
+				73,
+				53
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "bonussongs"
+}

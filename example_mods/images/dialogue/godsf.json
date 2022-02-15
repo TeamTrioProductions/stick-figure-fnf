@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		190,
+		150
+	],
+	"scale": 1.35,
+	"animations": [
+		{
+			"loop_name": "face",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "done",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "godsf"
+}

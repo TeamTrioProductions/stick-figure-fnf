@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stickfigure.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="face0000" x="0" y="0" width="153" height="307" frameX="0" frameY="0" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face0001" x="0" y="0" width="153" height="307" frameX="0" frameY="0" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face0002" x="153" y="0" width="153" height="311" frameX="-2" frameY="-10" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face0003" x="153" y="0" width="153" height="311" frameX="-2" frameY="-10" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face0004" x="306" y="0" width="153" height="302" frameX="-2" frameY="-6" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face done0000" x="0" y="0" width="153" height="307" frameX="0" frameY="0" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face done0001" x="0" y="0" width="153" height="307" frameX="0" frameY="0" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face done0002" x="0" y="0" width="153" height="307" frameX="0" frameY="0" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face done0003" x="0" y="0" width="153" height="307" frameX="0" frameY="0" frameWidth="155" frameHeight="321"/>
+	<SubTexture name="face done0004" x="0" y="0" width="153" height="307" frameX="0" frameY="0" frameWidth="155" frameHeight="321"/>
+</TextureAtlas>

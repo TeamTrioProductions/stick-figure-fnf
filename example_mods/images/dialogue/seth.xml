@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="seth.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="seth portrait0000" x="0" y="0" width="244" height="492"/>
+	<SubTexture name="seth portrait0001" x="0" y="0" width="244" height="492"/>
+	<SubTexture name="seth portrait0002" x="244" y="0" width="244" height="490" frameX="0" frameY="-2" frameWidth="244" frameHeight="492"/>
+	<SubTexture name="seth portrait0003" x="488" y="0" width="244" height="485" frameX="0" frameY="-4" frameWidth="244" frameHeight="492"/>
+	<SubTexture name="seth portrait done0000" x="732" y="0" width="243" height="491"/>
+</TextureAtlas>

@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "geometric",
+		"player1": "bf",
+		"player2": "geometry worried",
+		"player3": null,
+		"events": [
+			[
+				21000,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				22846.1538461538,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				24692.3076923077,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				48230.7692307692,
+				[
+					[
+						"Gain",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				48692.3076923077,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"5"
+					],
+					[
+						"MoveArrow",
+						"1",
+						"15, 15, 360, 1, 2"
+					],
+					[
+						"MoveArrow",
+						"2",
+						"15, 15, 360, 1, 2"
+					],
+					[
+						"MoveArrow",
+						"5",
+						"15, 15, 360, 1, 2"
+					],
+					[
+						"MoveArrow",
+						"6",
+						"15, 15, 360, 1, 2"
+					]
+				]
+			],
+			[
+				48807.6923076923,
+				[
+					[
+						"HealthDrain",
+						"0.35",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "colorednoteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": "coloredNOTE_assets",
+		"needsVoices": true,
+		"song": "downfall"
+	}
+}

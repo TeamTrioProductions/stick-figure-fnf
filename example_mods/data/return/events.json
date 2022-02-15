@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "duo",
+		"player1": "scared bf",
+		"player2": "geometry worried",
+		"player3": null,
+		"events": [
+			[
+				7384.61538461538,
+				[
+					[
+						"HealthDrain",
+						"0.5",
+						"3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "ripsf",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "return"
+	}
+}

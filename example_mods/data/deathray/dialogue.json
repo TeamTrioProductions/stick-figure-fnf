@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "hahahaha",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "godsf"
+		},
+		{
+			"expression": "excited",
+			"text": "HAHAHAHAHAHAHHAHAHAHAH",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "godsf"
+		},
+		{
+			"expression": "demon",
+			"text": "bro stop raging like your playing Fortknife or whatever you guys play these days",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "I\"LL MAKE SURE YOU AND YOUR PRECIOUS\\nGIRLFRIEND SUFFER",
+			"boxState": "angry",
+			"speed": 0.073,
+			"portrait": "godsf"
+		},
+		{
+			"expression": "talk",
+			"text": "sure",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "boi you aint scary",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "DODGE NOTES, HIT NOTES, DARK ARROW\\nSKIN. EVERYTHING YOU LITTLE SAVAGES",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "godsf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh hell nah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "seth",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "oh god, Boyfriend! YOU CAN DO THIS!!! well i hope you can...."
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "normalseth",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh, its you who hoped we can defeat that stick figure -_-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "normalseth",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah, wanna rap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep! (yes)"
+		}
+	]
+}

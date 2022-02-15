@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down ddd"
+		},
+		{
+			"offsets": [
+				-39,
+				407
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up ddd"
+		},
+		{
+			"offsets": [
+				-138,
+				233
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right ddd"
+		},
+		{
+			"offsets": [
+				-6,
+				261
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "destroyer idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				200
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sf scary",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sfgod",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

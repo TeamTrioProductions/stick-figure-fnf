@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "geo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so, your making new comics actually with color!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stickfigure",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ye"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uh.................................................................\\n................................................\\n....................."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "its... its... HIM"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "OH GOD YOUR RIGHT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "godsf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what did you SAYABOUTME"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shut up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "true"
+		},
+		{
+			"speed": 0.095,
+			"portrait": "worriedsf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "ugh, sorry Geometry but there are some midgets i have to deal with...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok egg head"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "a toddler made him boyfriend dont worry!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "geo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "STICK FIGURE CALM DOWN!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stickfigure",
+			"boxState": "angry",
+			"expression": "normal",
+			"text": "[(KILL:BF.png,BF.xml,GF.png...."
+		},
+		{
+			"speed": 0.5,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "R  A  P"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "geo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "k"
+		}
+	]
+}

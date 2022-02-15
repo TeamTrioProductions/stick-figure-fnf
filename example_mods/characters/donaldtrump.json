@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				-310
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "aleft"
+		},
+		{
+			"offsets": [
+				60,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "adown"
+		},
+		{
+			"offsets": [
+				-40,
+				-330
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "aup"
+		},
+		{
+			"offsets": [
+				-88,
+				-249
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "aright"
+		},
+		{
+			"offsets": [
+				0,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				210,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-101,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-87,
+				-205
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/donaldtrump",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "donald",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		123,
+		99
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

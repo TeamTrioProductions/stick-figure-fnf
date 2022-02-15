@@ -1,0 +1,114 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "geometric",
+		"player1": "bf",
+		"player2": "seth",
+		"player3": null,
+		"events": [
+			[
+				17280,
+				[
+					[
+						"ScreenMove",
+						"20, 75",
+						"10"
+					]
+				]
+			],
+			[
+				23040,
+				[
+					[
+						"ScreenMove",
+						"-65,-89",
+						"10"
+					]
+				]
+			],
+			[
+				30720,
+				[
+					[
+						"ScreenMove",
+						"0, 0",
+						"10"
+					]
+				]
+			],
+			[
+				59520,
+				[
+					[
+						"HealthDrain",
+						"0.1",
+						"0.01"
+					],
+					[
+						"ScreenMove",
+						"100, 50",
+						"5"
+					]
+				]
+			],
+			[
+				61440,
+				[
+					[
+						"ScreenMove",
+						"-200, -50",
+						"5"
+					]
+				]
+			],
+			[
+				63360,
+				[
+					[
+						"ScreenMove",
+						"300, 125",
+						"5"
+					]
+				]
+			],
+			[
+				65280,
+				[
+					[
+						"ScreenMove",
+						"-320, 50",
+						"5"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"ScreenMove",
+						"0, 0",
+						"5"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"ScreenMove",
+						"0, 0",
+						"5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "colorednoteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 125,
+		"arrowSkin": "coloredNOTE_assets",
+		"needsVoices": true,
+		"song": "dime"
+	}
+}

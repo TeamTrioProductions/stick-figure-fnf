@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				148,
+				-161
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				-260
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-400
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				-120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-263
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				150,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "hit"
+		},
+		{
+			"offsets": [
+				151,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "jump",
+			"loop": false,
+			"name": "jump"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/shape",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "shaped",
+	"flip_x": false,
+	"healthbar_colors": [
+		196,
+		0,
+		170
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.699999999999999
+}

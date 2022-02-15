@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "demon",
+			"text": "okay I know the place!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "demon",
+			"text": "Jalisco's",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.5
+		},
+		{
+			"expression": "talk",
+			"text": "ok i will pay",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "lets go........ AHHHHHHHHHHHHHHH",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH\\nHHH",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "where are we",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "idk but i thought we were going to hell or something like that",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "hi, uhhh. WAITWAITWAIT..... ARE YOU GUYS\\nFROM FNF",
+			"boxState": "normal",
+			"portrait": "stickfigure",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "yeah",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "demon",
+			"text": "bro who in the god damn hell are you",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "oh i'm Stick Figure, i'm the main protagonist in the vs stick figure comics",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stickfigure"
+		},
+		{
+			"expression": "normal",
+			"text": "oh just to warn you. WE DO NOT TOLERATE \\SWEARING HERE!!!!!!",
+			"boxState": "angry",
+			"speed": 0.15,
+			"portrait": "stickfigure"
+		},
+		{
+			"expression": "talk",
+			"text": "k",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "now lets rap",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stickfigure"
+		}
+	]
+}

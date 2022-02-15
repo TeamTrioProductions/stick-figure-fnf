@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="godsf.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="done0000" x="0" y="0" width="161" height="303"/>
+	<SubTexture name="face0000" x="161" y="0" width="161" height="302" frameX="0" frameY="0" frameWidth="170" frameHeight="302"/>
+	<SubTexture name="face0001" x="161" y="0" width="161" height="302" frameX="0" frameY="0" frameWidth="170" frameHeight="302"/>
+	<SubTexture name="face0002" x="322" y="0" width="167" height="291" frameX="0" frameY="-5" frameWidth="170" frameHeight="302"/>
+	<SubTexture name="face0003" x="322" y="0" width="167" height="291" frameX="0" frameY="-5" frameWidth="170" frameHeight="302"/>
+	<SubTexture name="face0004" x="322" y="0" width="167" height="291" frameX="0" frameY="-5" frameWidth="170" frameHeight="302"/>
+	<SubTexture name="face0005" x="489" y="0" width="170" height="284" frameX="0" frameY="-8" frameWidth="170" frameHeight="302"/>
+</TextureAtlas>

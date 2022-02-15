@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="geo.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portrait0000" x="0" y="0" width="149" height="377" frameX="-2" frameY="0" frameWidth="155" frameHeight="387"/>
+	<SubTexture name="portrait0001" x="0" y="0" width="149" height="377" frameX="-2" frameY="0" frameWidth="155" frameHeight="387"/>
+	<SubTexture name="portrait0002" x="149" y="0" width="153" height="376" frameX="-1" frameY="-6" frameWidth="155" frameHeight="387"/>
+	<SubTexture name="portrait0003" x="149" y="0" width="153" height="376" frameX="-1" frameY="-6" frameWidth="155" frameHeight="387"/>
+	<SubTexture name="portrait0004" x="302" y="0" width="155" height="378" frameX="0" frameY="-9" frameWidth="155" frameHeight="387"/>
+	<SubTexture name="portrait done0000" x="457" y="0" width="147" height="377"/>
+</TextureAtlas>

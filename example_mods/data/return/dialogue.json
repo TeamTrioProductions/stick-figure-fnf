@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "godsf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Fuck Off Geometry, I Have Some Idiots To Murder!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "geow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "screw off..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "godsf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "MAKEME"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "shut the hell up and rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "him",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "QWIUHJKDKHJADKHJSD\\nieasrjheiolewahedliashdlias\\nsdjowerouiwaEuyWAPEOYHLIUFH"
+		}
+	]
+}

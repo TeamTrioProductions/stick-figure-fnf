@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "bro your charting is so bad and your sprite doesn't even match the style of fnf\\nlol",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "true",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "dont you hate it when 2 midgets start ganging\\nup on you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "worriedsf"
+		},
+		{
+			"expression": "pissed",
+			"text": "no",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": ". . .",
+			"boxState": "angry",
+			"speed": 0.5,
+			"portrait": "worriedsf"
+		},
+		{
+			"expression": "normal",
+			"text": "ONE MORE RAP BATTLE",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "worriedsf"
+		},
+		{
+			"expression": "excited",
+			"text": "yayyyyyyyyyyyyyyyyyyyyyyyyyy",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

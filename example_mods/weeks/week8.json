@@ -1,0 +1,53 @@
+{
+	"storyName": "stylish worlds",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "geometry",
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"graphics",
+			"geometry",
+			[
+				194,
+				111,
+				28
+			]
+		],
+		[
+			"shaped",
+			"geometry",
+			[
+				194,
+				111,
+				28
+			]
+		],
+		[
+			"downfall",
+			"geometry worried",
+			[
+				174,
+				91,
+				28
+			]
+		],
+		[
+			"return",
+			"sf geometry",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week Geo"
+}

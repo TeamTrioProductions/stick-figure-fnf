@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.175,
+			"portrait": "geow",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "what the frick is happening to me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rip"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I guess 1 more rap battle i guess?"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "geow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okay i guess....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "him",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I Will Kill Boyfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "godsf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I Will KILLHIMHAHAHAHAHHAHAH"
+		}
+	]
+}
